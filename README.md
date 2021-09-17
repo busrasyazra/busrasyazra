@@ -1,4 +1,4 @@
-<img width="700" alt="Screen Shot 2021-05-16 at 8 05 22 PM" src="https://github.com/busrasyazra/busrasyazra/blob/main/tools.png"><br> 
+<img width="700" alt="Screen Shot 2021-05-16 at 8 05 22 PM" src="https://github.com/busrasyazra/busrasyazra/blob/main/tools1.png"><br> 
 ### Hi there! This is Busra Celenay👋
 
 - 🔭 I’m currently working on AWS
